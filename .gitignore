@@ -1,0 +1,39 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+.trae/
+
+# Temporary files
+temp/
+.temp/
+tmp/
+.tmp/
+cache/
+.cache/
+.gradio/
+output/
+data/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# model
+*.pt
+*.pth
+*.json
