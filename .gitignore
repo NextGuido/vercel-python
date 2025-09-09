@@ -36,4 +36,3 @@ logs/
 # model
 *.pt
 *.pth
-*.json
